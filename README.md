@@ -1,3 +1,4 @@
 # flicker
-Just some stuff
-Nothing to do there
+Just some stuff.
+
+Nothing to do there.

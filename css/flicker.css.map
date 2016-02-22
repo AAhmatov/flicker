@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,IAAI;EACF,gBAAgB,EAAE,IAAI",
+"mappings": "AAAA,IAAI;EACF,gBAAgB,EAAE,IAAI;;AAIxB,MAAO;EACL,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,YAAY;EACrB,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,CAAC;EACV,KAAK,EAAE,KAAK",
 "sources": ["flicker.scss"],
 "names": [],
 "file": "flicker.css"
